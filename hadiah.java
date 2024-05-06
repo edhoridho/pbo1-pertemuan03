@@ -43,7 +43,7 @@ public class hadiah {
         }
         break;
       default:
-        System.out.println("Jenis kelamin tidak valid.");
+        System.out.println("Jenis kelamin tidak valid");
 
         scanner.close();
     }
